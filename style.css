@@ -1,0 +1,40 @@
+html{
+background-color: rgb(15, 17, 21);
+}
+
+p{
+    color: white;
+}
+h1{
+    color: white;
+}
+h2{
+    color: white;
+}
+h3{
+    color: white;
+}
+h4{
+    color: white;
+}
+h5{
+    color: white;
+}
+h6{
+    color: white;
+}
+a{
+    color: white;
+}
+  footer {
+    padding: 24px;
+    background-color: rgb(40, 50, 90);
+    color: white;
+    border-radius: 20px;
+  }
+ul{
+    color: white;
+}
+body{
+    font-family: "Source code pro", Verdana, sans-serif;
+}
